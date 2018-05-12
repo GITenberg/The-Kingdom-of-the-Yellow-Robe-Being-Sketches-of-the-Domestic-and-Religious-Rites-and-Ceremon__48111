@@ -1,15 +1,21 @@
 _repo: The-Kingdom-of-the-Yellow-Robe-Being-Sketches-of-the-Domestic-and-Religious-Rites-and-Ceremon__48111
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Norbury, E. A.
     gutenberg_agent_id: '44625'
     url: http://www.gutenberg.org/2009/agents/44625
+covers:
+- cover_type: archival
+  image_path: 48111-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Ernest
     gutenberg_agent_id: '44624'
     url: http://www.gutenberg.org/2009/agents/44624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48111#The-Kingdom-of-the-Yellow-Robe-Being-Sketches-of-the-Domestic-and-Religious-Rites-and-Ceremon_
 gutenberg_issued: '2015-01-30'
 gutenberg_type: Text
 identifiers:
